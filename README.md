@@ -13,7 +13,7 @@ https://github.com/opencv/opencv/blob/master/doc/pattern.png
 
 ## Demo
 
-![AR Cube Demo](assets/demo.gif)
+![AR Cube Demo](assets/demo.mp4)
 
 ------------------------------------------------------------------------
 
